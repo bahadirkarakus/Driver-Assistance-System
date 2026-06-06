@@ -14,14 +14,6 @@ stopping distance, and drives three LEDs to warn the driver:
 Two potentiometers emulate the sensors (speed + distance) so the whole system can be tested
 on a breadboard without real radar/LiDAR hardware.
 
-## 🎥 Demo video
-
-A live demonstration of all four states on the physical prototype:
-
-**▶️ [Watch the demo on YouTube](https://youtu.be/REPLACE_WITH_VIDEO_ID)**
-
-> Replace the link above with the YouTube URL once the video is uploaded.
-
 ---
 
 ## How it works
